@@ -11,7 +11,7 @@ const styles = EStyleSheet.create({
 
 	container: {
 		alignItems: 'center',
-		backgroundColor: 'red',
+		// backgroundColor: 'red',
 	},
 	logoContainer: {
 		alignItems: 'center',
